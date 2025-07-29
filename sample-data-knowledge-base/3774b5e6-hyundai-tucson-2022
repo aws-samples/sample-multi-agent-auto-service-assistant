@@ -1,0 +1,42 @@
+vehicle info: hyundai tucson 2022 
+service date: 2025-04-23 
+service notes: Title: Successful Camshaft Position Sensor Replacement in 2022 Hyundai Tucson
+
+Issue:
+- P0342 code (Camshaft Position Sensor Circuit Low Input Bank 1)
+- Extended engine startup time
+- Low voltage on Camshaft Position Sensor signal circuit
+- Second occurrence since April 2025
+
+Diagnostic Steps:
+1. Scanned and confirmed P0342 code
+2. Verified low voltage on signal circuit
+3. Checked service history revealing previous sensor replacement
+
+Repair Solution:
+1. Replaced Bank 1 Camshaft Position Sensor
+2. Installed Bosch replacement part (P/N: 393503E110)
+3. Performed post-repair verification
+
+Final Results:
+- Engine running normally
+- Check engine light cleared and remains off
+- Starting time returned to normal
+- Smooth engine operation confirmed
+- All systems functioning as expected
+
+Technical Notes:
+- Second sensor replacement in short timeframe
+- Recommend monitoring for:
+  * Wiring harness integrity
+  * Voltage stability
+  * Any signs of electrical interference
+- Consider full circuit inspection if issue recurs
+
+Parts Used:
+- Bosch Camshaft Position Sensor (P/N: 393503E110)
+
+Recommendations:
+- Document any future starting issues immediately
+- Regular monitoring of engine performance
+- Consider comprehensive electrical system inspection if problem recurs 

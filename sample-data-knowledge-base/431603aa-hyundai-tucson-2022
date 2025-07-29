@@ -1,0 +1,30 @@
+vehicle info: hyundai tucson 2022 
+service date: 2025-05-01 
+service notes: Title: 2022 Hyundai Tucson P0341 - Camshaft Position Sensor Replacement
+
+Initial Concern:
+- Vehicle presented with Check Engine Light ON
+- Diagnostic trouble code P0341 retrieved
+- Code indicates Camshaft Position Sensor Circuit Range/Performance
+
+Diagnostic Process:
+1. Scanned vehicle and confirmed P0341 code
+2. Inspected Camshaft Position Sensor wiring and connections
+3. Tested sensor signal output
+4. Confirmed faulty Camshaft Position Sensor
+
+Repair Procedure:
+1. Identified correct replacement part: Valeo Camshaft Position Sensor (P/N: 393503E110)
+2. Followed OEM procedures for sensor replacement
+3. Cleared diagnostic codes
+4. Test drove to confirm proper operation
+5. Verified Check Engine Light remained off
+
+Additional Findings:
+- Vehicle has an open recall (#23V-038) for roof molding
+- Advised customer to schedule recall service
+
+Technical Notes:
+- P0341 commonly indicates failed Camshaft Position Sensor
+- Proper testing of sensor signal is crucial for accurate diagnosis
+- Always verify proper sensor alignment during installation 

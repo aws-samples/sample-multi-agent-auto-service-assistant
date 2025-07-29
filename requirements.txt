@@ -1,0 +1,5 @@
+boto3
+botocore
+opensearch-py
+requests
+requests_aws4auth

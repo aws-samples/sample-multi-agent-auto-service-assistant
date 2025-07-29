@@ -1,0 +1,51 @@
+VehicleABIEType_VehicleID,RepairOrderCompletedDate,VehicleABIEType_Make,VehicleABIEType_ModelDescription,VehicleABIEType_ModelYear,MileageInDistance,Diagnostics,ServiceAdvisorParty,Custom_ServiceTechnicianParty,ServiceDealerParty,Custom_DealerLocation,OrderNotes
+2m4c6,2023-02-01,hyundai,tucson,2022,17000,annual maintenance,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL","Full inspection completed. Onwer Sophia Ramirez, phone number (415) 839-2746." 
+2m4c6,2024-01-31,hyundai,tucson,2022,22000,annual maintenance,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Full inspection completed. No major issues found.
+2m4c6,2024-07-31,hyundai,tucson,2022,24000,recall remedy,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL","Perform ICU software update, recall 21V-938."
+2m4c6,2025-02-17,hyundai,tucson,2022,27500,engine diagnostics,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Check engine light diagnosed. Oxygen sensor replaced.
+ysgws,2023-12-18,hyundai,tucson,2023,28779,annual maintenance,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Full inspection completed. No major issues found.
+rzzup,2024-11-05,hyundai,palasade,2024,70621,alignment check,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Wheel alignment checked and adjusted.
+wlocz,2024-04-06,hyundai,palasade,2024,53784,air filter replacement,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Engine air filter replaced.
+fbubh,2024-03-22,hyundai,elantra,2020,77972,annual maintenance,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Full inspection completed. No major issues found.
+cnugt,2024-04-05,hyundai,tucson,2024,50447,air filter replacement,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Engine air filter replaced.
+wzuir,2023-06-17,hyundai,tucson,2020,22111,oil change,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Engine oil and oil filter changed.
+dghtf,2024-02-01,hyundai,tucson,2024,53688,brake inspection,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL","Brake pads checked. Front pads at 40%, rear pads at 60%."
+ervhu,2024-01-31,hyundai,sonata,2020,72271,oil change,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Engine oil and oil filter changed.
+lylfz,2024-09-19,hyundai,palasade,2023,61879,alignment check,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Wheel alignment checked and adjusted.
+wexqr,2023-10-22,hyundai,elantra,2023,31956,air filter replacement,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Engine air filter replaced.
+suhjh,2023-07-14,hyundai,sonata,2021,16378,software update,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",System software updated to latest version.
+vxmnx,2024-05-19,hyundai,tucson,2020,43536,brake inspection,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL","Brake pads checked. Front pads at 40%, rear pads at 60%."
+iiras,2024-04-30,hyundai,palasade,2021,26089,software update,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",System software updated to latest version.
+kvgkr,2023-07-20,hyundai,palasade,2020,34682,air filter replacement,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Engine air filter replaced.
+nicwz,2023-10-17,hyundai,palasade,2023,69046,air filter replacement,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Engine air filter replaced.
+dflsc,2023-08-17,hyundai,tucson,2020,71810,annual maintenance,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Full inspection completed. No major issues found.
+kqsph,2023-04-18,hyundai,elantra,2024,62915,alignment check,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Wheel alignment checked and adjusted.
+dvcmo,2023-11-27,hyundai,palasade,2021,12995,battery check,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL","Battery tested, voltage within normal range."
+bqwwy,2024-06-15,hyundai,sonata,2024,61595,coolant flush,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Coolant system flushed and refilled.
+lueir,2024-05-16,hyundai,elantra,2024,27688,oil change,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Engine oil and oil filter changed.
+tpqdi,2023-04-23,hyundai,tucson,2024,42259,air filter replacement,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Engine air filter replaced.
+iyqao,2024-05-11,hyundai,palasade,2024,29418,annual maintenance,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Full inspection completed. No major issues found.
+bmzgx,2024-05-20,hyundai,tucson,2023,53667,coolant flush,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Coolant system flushed and refilled.
+jaqqy,2024-02-21,hyundai,palasade,2023,78220,software update,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",System software updated to latest version.
+kroew,2024-12-29,hyundai,sonata,2024,36523,software update,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",System software updated to latest version.
+eimuj,2024-05-08,hyundai,sonata,2023,18314,air filter replacement,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Engine air filter replaced.
+zkkgz,2024-01-09,hyundai,sonata,2024,18946,tire rotation,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",All tires rotated front to back.
+kntjw,2024-01-17,hyundai,kona,2020,72342,coolant flush,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Coolant system flushed and refilled.
+stoth,2025-02-01,hyundai,palasade,2024,51251,coolant flush,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Coolant system flushed and refilled.
+ldizb,2023-12-21,hyundai,kona,2024,38482,transmission service,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Transmission fluid checked and replaced.
+twfsr,2023-05-22,hyundai,sonata,2023,49988,oil change,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Engine oil and oil filter changed.
+odohx,2024-01-06,hyundai,sonata,2020,13402,air filter replacement,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Engine air filter replaced.
+qikxw,2025-03-24,hyundai,palasade,2024,21020,air filter replacement,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Engine air filter replaced.
+xqbsl,2023-11-27,hyundai,sonata,2021,47499,alignment check,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Wheel alignment checked and adjusted.
+erqoo,2024-08-29,hyundai,tucson,2024,28279,coolant flush,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Coolant system flushed and refilled.
+yjfsr,2023-04-29,hyundai,elantra,2020,34550,tire rotation,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",All tires rotated front to back.
+cszhw,2024-11-14,hyundai,kona,2024,74182,transmission service,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Transmission fluid checked and replaced.
+gefqo,2024-11-27,hyundai,elantra,2023,11112,battery check,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL","Battery tested, voltage within normal range."
+ijlwn,2024-11-25,hyundai,kona,2021,76411,brake inspection,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL","Brake pads checked. Front pads at 40%, rear pads at 60%."
+eqztb,2024-02-20,hyundai,elantra,2024,10615,brake inspection,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL","Brake pads checked. Front pads at 40%, rear pads at 60%."
+lelal,2024-10-10,hyundai,kona,2024,13301,battery check,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL","Battery tested, voltage within normal range."
+ctxen,2024-01-03,hyundai,elantra,2021,30138,oil change,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Engine oil and oil filter changed.
+brzaa,2024-06-20,hyundai,tucson,2021,54721,air filter replacement,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Engine air filter replaced.
+oinis,2023-10-23,hyundai,kona,2020,37620,alignment check,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",Wheel alignment checked and adjusted.
+fcpou,2024-01-28,hyundai,palasade,2023,69049,battery check,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL","Battery tested, voltage within normal range."
+hjttq,2023-10-11,hyundai,sonata,2020,45978,software update,Harper Quinn,Jaxon Reed,DEALER_001,"Sarasota, FL",System software updated to latest version.

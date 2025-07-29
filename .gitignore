@@ -1,0 +1,12 @@
+# MacOS
+.DS_Store
+
+# Build artifacts
+agent-action-groups/build/
+
+# dotenv environment variables file
+.env
+
+# virtual env files
+.venv
+

@@ -1,0 +1,33 @@
+vehicle info: hyundai tucson 2022 
+service date: 2025-04-11 
+service notes: Title: 2022 Hyundai Tucson - Camshaft Position Sensor Replacement
+
+Issue:
+- Check Engine Light illuminated
+- Extended cranking/hard starting condition
+- DTC P0342 (Camshaft Position Sensor 'A' Circuit Low Input)
+
+Diagnostic Steps:
+1. Retrieved and confirmed DTC P0342
+2. Performed visual inspection of sensor and associated wiring
+3. Conducted circuit testing which revealed erratic signal voltage
+4. Confirmed Camshaft Position Sensor failure
+
+Repair Procedure:
+1. Identified correct replacement part (OE/Bosch P/N 393183C100)
+2. Replaced Camshaft Position Sensor following proper installation procedure
+3. Applied manufacturer-specified torque specifications
+4. Cleared diagnostic trouble codes
+5. Performed verification testing
+
+Results:
+- Check Engine Light extinguished
+- Normal cranking and starting operation restored
+- Engine operating within normal parameters
+- All systems verified functioning properly
+
+Technical Notes:
+- Always use OE or high-quality replacement sensors
+- Proper torque specification is critical for sensor operation
+- Complete circuit testing is essential for accurate diagnosis
+- Post-repair verification should include cold start testing 
