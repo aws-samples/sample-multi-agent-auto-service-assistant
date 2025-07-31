@@ -1,6 +1,6 @@
 # sample-multi-agent-auto-service-assistant
 
-This sample code respository provides an extendable concept on using Generative AI and multi-agent collabration to provide comprehensive service instructions for automotive service technician. This sample is intended to show Automotive industry a new way to enhance service output, improve vehicle owner satisfaction, and increase service bay througput.
+This sample code repository provides an extendable concept on using Generative AI and multi-agent collaboration to provide comprehensive service instructions for automotive service technicians. This sample is intended to show the automotive industry a new way of enhancing service quality, improve vehicle owner satisfaction, and increase service bay throughput.
 
 ## Sample Diagram
 ![asa-sample-architecture.png](docs/images/asa-sample-architecture.png)
